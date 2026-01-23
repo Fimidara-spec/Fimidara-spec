@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: I wish I knew
 - 😄 Pronouns: Her/she 
-- ⚡ Fun fact: I am very slow at typing
+- ⚡ Fun fact: I am quite fast at typing
 
 <!---
 Fimidara-spec/Fimidara-spec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
