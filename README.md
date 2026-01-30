@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fimidara-spec
+- 👋 Hi, I’m @Reina
 - 👀 I’m interested in coding and developing apps and games
 - 🌱 I’m currently learning Python and html
 - 💞️ I’m looking to collaborate on ...
