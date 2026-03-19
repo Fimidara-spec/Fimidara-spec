@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reina
 - 👀 I’m interested in coding and developing apps and games
-- 🌱 I’m currently learning Python and html
+- 🌱 I’m a front end developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: I wish I knew
 - 😄 Pronouns: Her/she 
